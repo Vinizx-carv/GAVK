@@ -1,7 +1,6 @@
 # GAVK - Jogo Educativo para TEA
 
-[https://drive.google.com/file/d/1Pa357y5pe0bGQB4nF9zdheEANR8p-NZ8/view?usp=drive_link](https://drive.google.com/uc?id=1Pa357y5pe0bGQB4nF9zdheEANR8p-NZ8)
-
+![Banner](https://github.com/Vinizx-carv/GAVK/blob/main/Captura%20de%20tela%202024-12-10%20231149.png?raw=true)
 ## 🌟 Sobre o Projeto
 
 O **GAVK** é um jogo educativo desenvolvido como parte de um projeto de extensão universitário. Seu foco é promover o aprendizado e a interação de maneira inclusiva para crianças com **Transtorno do Espectro Autista (TEA)**.  
