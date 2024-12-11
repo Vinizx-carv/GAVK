@@ -1,6 +1,6 @@
 # GAVK - Jogo Educativo para TEA
 
-([caminho-para-uma-imagem-ou-gif.gif](https://drive.google.com/file/d/1Pa357y5pe0bGQB4nF9zdheEANR8p-NZ8/view?usp=drive_link))
+[https://drive.google.com/file/d/1Pa357y5pe0bGQB4nF9zdheEANR8p-NZ8/view?usp=drive_link](https://drive.google.com/uc?id=1Pa357y5pe0bGQB4nF9zdheEANR8p-NZ8)
 
 ## 🌟 Sobre o Projeto
 
@@ -10,7 +10,17 @@ O jogo utiliza **elementos sensoriais adaptados** e foi projetado para respeitar
 
 **Acesse o jogo aqui:** [GAVK no GitHub Pages](https://vinizx-carv.github.io/GAVK/)
 
----
+Integrantes do Grupo:
+
+Vinicius de Carvalho Borges
+
+Gustavo Wilson Pereira
+
+Kauã Barbosa Pimentel Coelho
+
+Kaielly Vitória Sousa De Morais
+
+Ana Vitória Amorim Mendes Melo
 
 ## 🚀 Funcionalidades
 
